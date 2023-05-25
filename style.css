@@ -1,0 +1,53 @@
+/* Insert any CSS code below here */
+body{
+  background-color: black;
+}
+.posterContainer{
+  border:dotted red;
+  border-width:12px;
+  margin:3em;
+  background-color: yellow;
+  height: 850px;
+}
+
+.title{
+  text-align: center;
+  border: solid black;
+  margin: 5em;
+  font-size: 52px;
+}
+.info{
+  font-size: 28px;
+  text-align: center;
+
+}
+.robot{
+  border: solid black;
+  border-radius: 4%;
+  margin-left: 42%;
+  image-resolution:initial
+}
+.description{
+  border: solid black;
+  color: black;
+  margin: 1em;
+  background-size: cover;
+}
+.dsc{
+margin: 12px;
+font-size: 22px;
+}
+.contactinfo{
+  border: solid black;
+  font-size: 22px;
+  text-align: center;
+  color: red;
+  margin: 1em;
+}
+.payola{
+  border: dotted green;
+  margin: 2em;
+  text-align: center;
+  color: green;
+  font-size: 20px;
+}
